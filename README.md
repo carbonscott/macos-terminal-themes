@@ -21,3 +21,8 @@ Each profile sets JetBrains Mono Regular 14pt and a 100x30 window, and exports
 
 iTerm2 color presets converted from these profiles live in
 [iterm2-conway-themes](https://github.com/carbonscott/iterm2-conway-themes).
+
+## Otty
+
+Otty themes converted from these profiles live in
+[otty-themes](https://github.com/carbonscott/otty-themes).
